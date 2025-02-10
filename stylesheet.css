@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(11, 11, 80);
+margin: 20px;
+padding: 20px;
+color: beige;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.center-container{
+    text-align: center;
+    font-size: larger;
+}
+
+.navbar{
+    text-align: center;
+    font-size: larger;
+    color: beige;
+}
+
